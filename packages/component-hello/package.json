@@ -1,6 +1,6 @@
 {
     "name": "component-lerna-hello",
-    "version": "1.0.3",
+    "version": "1.0.4-alpha.5+13afac3",
     "description": "> TODO: description",
     "author": "Constantin <veltri.constantin@gmail.com>",
     "homepage": "https://github.com/constantin-v/lerna-canary#readme",
@@ -23,5 +23,5 @@
     "bugs": {
         "url": "https://github.com/constantin-v/lerna-canary/issues"
     },
-    "gitHead": "b68d6f0d121076ec3c5ecbb4364ce1acd868b6b1"
+    "gitHead": "13afac35f11078bcc8b8fb14b87865cb732c3a2a"
 }
