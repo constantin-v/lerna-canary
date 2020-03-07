@@ -1,5 +1,5 @@
 const HelloWorld = function() {
-    return "Hello World";
+    return "Hello World v2";
 };
 
 export default HelloWorld;
