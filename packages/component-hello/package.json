@@ -1,5 +1,5 @@
 {
-    "name": "@tobedeleted/component-hello",
+    "name": "component-lerna-hello",
     "version": "1.0.2",
     "description": "> TODO: description",
     "author": "Constantin <veltri.constantin@gmail.com>",
@@ -23,5 +23,5 @@
     "bugs": {
         "url": "https://github.com/constantin-v/lerna-canary/issues"
     },
-    "gitHead": "9e5a950f27284e60b360cddfa6064bf78d034f12"
+    "gitHead": "b68d6f0d121076ec3c5ecbb4364ce1acd868b6b1"
 }
