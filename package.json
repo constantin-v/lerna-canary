@@ -1,10 +1,6 @@
 {
     "name": "root",
     "private": true,
-    "scripts": {
-        // "publish": "lerna publish --no-commit-hooks --yes",
-        // "publish:canary": "lerna publish --no-commit-hooks --canary --pre-dist-tag alpha --yes"
-    },
     "devDependencies": {
         "lerna": "^3.15.0"
     }
