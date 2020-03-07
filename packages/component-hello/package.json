@@ -1,0 +1,26 @@
+{
+    "name": "@tobedeleted/component-hello",
+    "version": "1.0.1",
+    "description": "> TODO: description",
+    "author": "Constantin <veltri.constantin@gmail.com>",
+    "homepage": "https://github.com/constantin-v/lerna-canary#readme",
+    "license": "ISC",
+    "main": "index.js",
+    "directories": {
+        "lib": "lib",
+        "test": "__tests__"
+    },
+    "files": [
+        "lib"
+    ],
+    "repository": {
+        "type": "git",
+        "url": "git+https://github.com/constantin-v/lerna-canary.git"
+    },
+    "scripts": {
+        "test": "echo \"Error: run tests from root\" && exit 1"
+    },
+    "bugs": {
+        "url": "https://github.com/constantin-v/lerna-canary/issues"
+    }
+}
