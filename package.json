@@ -2,8 +2,8 @@
     "name": "root",
     "private": true,
     "scripts": {
-        "publish": "lerna publish --no-commit-hooks --yes",
-        "publish:canary": "lerna publish --no-commit-hooks --canary --pre-dist-tag alpha --yes"
+        "publish": "lerna publish --no-commit-hooks --yes --loglevel=verbose",
+        "publish:canary": "lerna publish --no-commit-hooks --canary --pre-dist-tag alpha --yes --loglevel=verbose"
     },
     "devDependencies": {
         "lerna": "^3.20.2"
