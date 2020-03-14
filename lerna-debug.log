@@ -1,16 +1,16 @@
-16 error Error: Command failed: git remote update
-16 error git@github.com: Permission denied (publickey).
-16 error fatal: Could not read from remote repository.
-16 error
-16 error Please make sure you have the correct access rights
-16 error and the repository exists.
-16 error error: Could not fetch origin
-16 error
-16 error Fetching origin
-16 error
-16 error     at makeError (C:\git\lerna\lerna-canary\node_modules\execa\index.js:174:9)
-16 error     at Function.module.exports.sync (C:\git\lerna\lerna-canary\node_modules\execa\index.js:338:15)
-16 error     at Object.execSync (C:\git\lerna\lerna-canary\node_modules\@lerna\child-process\index.js:26:16)
-16 error     at updateRemote (C:\git\lerna\lerna-canary\node_modules\@lerna\version\lib\is-behind-upstream.js:26:16)
-16 error     at isBehindUpstream (C:\git\lerna\lerna-canary\node_modules\@lerna\version\lib\is-behind-upstream.js:11:3)
-16 error     at VersionCommand.initialize (C:\git\lerna\lerna-canary\node_modules\@lerna\version\index.js:150:9)
+18 error Error: Command failed: git remote update
+18 error git@github.com: Permission denied (publickey).
+18 error fatal: Could not read from remote repository.
+18 error
+18 error Please make sure you have the correct access rights
+18 error and the repository exists.
+18 error error: Could not fetch origin
+18 error
+18 error Fetching origin
+18 error
+18 error     at makeError (C:\git\lerna\lerna-canary\node_modules\execa\index.js:174:9)
+18 error     at Function.module.exports.sync (C:\git\lerna\lerna-canary\node_modules\execa\index.js:338:15)
+18 error     at Object.execSync (C:\git\lerna\lerna-canary\node_modules\@lerna\child-process\index.js:26:16)
+18 error     at updateRemote (C:\git\lerna\lerna-canary\node_modules\@lerna\version\lib\is-behind-upstream.js:26:16)
+18 error     at isBehindUpstream (C:\git\lerna\lerna-canary\node_modules\@lerna\version\lib\is-behind-upstream.js:11:3)
+18 error     at VersionCommand.initialize (C:\git\lerna\lerna-canary\node_modules\@lerna\version\index.js:150:9)
